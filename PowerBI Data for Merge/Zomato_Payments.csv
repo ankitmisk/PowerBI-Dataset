@@ -1,0 +1,101 @@
+PaymentID,OrderID,PaymentMode,PaymentStatus,DiscountApplied
+9001,5066,Cash,Success,202
+9002,5099,Debit Card,Success,48
+9003,5064,Cash,Success,2
+9004,5082,Cash,Failed,287
+9005,5006,Credit Card,Failed,159
+9006,5060,Cash,Failed,15
+9007,5039,UPI,Success,173
+9008,5096,UPI,Success,249
+9009,5051,Credit Card,Success,84
+9010,5015,Credit Card,Success,150
+9011,5082,Cash,Success,31
+9012,5087,Debit Card,Success,298
+9013,5017,Debit Card,Failed,177
+9014,5006,Cash,Failed,238
+9015,5040,Debit Card,Failed,287
+9016,5085,Credit Card,Success,279
+9017,5003,Credit Card,Failed,96
+9018,5023,Debit Card,Failed,7
+9019,5005,Cash,Failed,256
+9020,5098,Debit Card,Failed,158
+9021,5052,Debit Card,Failed,250
+9022,5097,Debit Card,Success,192
+9023,5089,UPI,Success,232
+9024,5050,Debit Card,Failed,258
+9025,5055,Debit Card,Failed,198
+9026,5011,UPI,Success,162
+9027,5017,UPI,Success,177
+9028,5042,UPI,Success,77
+9029,5097,Debit Card,Success,246
+9030,5044,Cash,Success,28
+9031,5059,Cash,Failed,190
+9032,5020,Credit Card,Failed,148
+9033,5019,Debit Card,Success,145
+9034,5045,Cash,Failed,295
+9035,5083,Debit Card,Success,87
+9036,5058,Debit Card,Failed,14
+9037,5001,Debit Card,Success,16
+9038,5013,Cash,Failed,145
+9039,5046,Debit Card,Failed,135
+9040,5022,Credit Card,Success,242
+9041,5017,Debit Card,Failed,35
+9042,5047,Credit Card,Success,158
+9043,5092,Credit Card,Success,73
+9044,5061,Credit Card,Failed,185
+9045,5083,Credit Card,Failed,45
+9046,5016,Cash,Success,137
+9047,5093,UPI,Success,129
+9048,5020,UPI,Failed,16
+9049,5075,Cash,Failed,143
+9050,5045,Cash,Success,106
+9051,5090,Cash,Success,218
+9052,5065,Cash,Failed,121
+9053,5089,UPI,Success,35
+9054,5033,Credit Card,Failed,19
+9055,5040,Debit Card,Failed,69
+9056,5049,Cash,Success,66
+9057,5079,Cash,Failed,232
+9058,5038,Cash,Failed,294
+9059,5040,Debit Card,Success,31
+9060,5015,UPI,Success,11
+9061,5028,UPI,Failed,214
+9062,5052,Credit Card,Success,21
+9063,5003,Cash,Success,255
+9064,5082,Cash,Success,43
+9065,5057,Debit Card,Failed,1
+9066,5002,Cash,Failed,142
+9067,5067,Credit Card,Failed,82
+9068,5031,Debit Card,Success,163
+9069,5074,Debit Card,Success,138
+9070,5088,Credit Card,Success,226
+9071,5069,UPI,Failed,122
+9072,5046,Debit Card,Failed,177
+9073,5045,Debit Card,Success,6
+9074,5031,Debit Card,Success,266
+9075,5081,Debit Card,Failed,174
+9076,5070,Cash,Success,117
+9077,5053,Debit Card,Failed,7
+9078,5040,UPI,Success,221
+9079,5066,Debit Card,Success,106
+9080,5091,Debit Card,Success,173
+9081,5097,Cash,Success,44
+9082,5048,Cash,Success,200
+9083,5078,Cash,Failed,217
+9084,5076,UPI,Success,31
+9085,5040,Cash,Success,297
+9086,5012,Debit Card,Success,88
+9087,5098,Debit Card,Failed,78
+9088,5038,Cash,Success,57
+9089,5055,UPI,Failed,10
+9090,5089,Cash,Failed,74
+9091,5027,Credit Card,Success,127
+9092,5085,Cash,Success,234
+9093,5033,Cash,Success,49
+9094,5039,Credit Card,Success,29
+9095,5052,Cash,Success,287
+9096,5093,Cash,Success,8
+9097,5083,UPI,Failed,254
+9098,5002,Cash,Failed,112
+9099,5045,Credit Card,Success,249
+9100,5075,Cash,Success,87
