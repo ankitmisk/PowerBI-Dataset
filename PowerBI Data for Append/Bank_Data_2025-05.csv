@@ -1,0 +1,101 @@
+TransactionID,TransactionDate,BankName,CustomerID,AccountType,Branch,TransactionType,Amount,Balance,LoanFlag,RiskCategory,Channel,CustomerAge,Gender,CityTier
+202505-1,2025-05-01,ICICI,83543,Current,Mumbai,Debit,40542,163962,No,High,ATM,49,Female,Tier 1
+202505-2,2025-05-02,ICICI,93441,Savings,Mumbai,Debit,17820,480452,Yes,High,Online,19,Male,Tier 2
+202505-3,2025-05-03,HDFC,51786,Loan,Bangalore,Debit,27876,439725,Yes,High,ATM,64,Male,Tier 3
+202505-4,2025-05-04,Yes Bank,16737,Current,Pune,Debit,44013,52534,Yes,Low,Online,31,Female,Tier 1
+202505-5,2025-05-05,HDFC,46062,Current,Chennai,Credit,14699,102241,Yes,Medium,Branch,37,Male,Tier 2
+202505-6,2025-05-06,ICICI,64237,Savings,Mumbai,Debit,16376,422003,No,High,Branch,39,Male,Tier 2
+202505-7,2025-05-07,BOB,61571,Savings,Pune,Credit,8745,136209,No,Medium,ATM,28,Female,Tier 2
+202505-8,2025-05-08,Yes Bank,35510,Current,Mumbai,Credit,7714,452061,No,High,UPI,44,Female,Tier 1
+202505-9,2025-05-09,PNB,29426,Savings,Pune,Debit,1226,199004,No,Low,ATM,20,Female,Tier 1
+202505-10,2025-05-10,HDFC,47265,Savings,Bangalore,Credit,47100,102124,No,High,UPI,34,Male,Tier 3
+202505-11,2025-05-11,ICICI,27850,Current,Delhi,Credit,11862,101659,Yes,Low,Branch,61,Male,Tier 3
+202505-12,2025-05-12,Yes Bank,76150,Savings,Chennai,Credit,18797,174134,Yes,High,ATM,45,Female,Tier 1
+202505-13,2025-05-13,HDFC,97312,Loan,Delhi,Debit,30948,85713,Yes,Medium,UPI,46,Female,Tier 1
+202505-14,2025-05-14,Axis,99613,Loan,Chennai,Debit,26672,228335,No,High,Online,38,Female,Tier 1
+202505-15,2025-05-15,HDFC,84910,Current,Chennai,Debit,43374,498972,No,High,ATM,64,Female,Tier 2
+202505-16,2025-05-16,HDFC,62375,Loan,Mumbai,Debit,8157,463677,No,Medium,ATM,33,Female,Tier 1
+202505-17,2025-05-17,PNB,45435,Savings,Delhi,Credit,19350,85418,Yes,High,ATM,54,Male,Tier 3
+202505-18,2025-05-18,PNB,67132,Current,Delhi,Debit,25925,469888,No,Medium,Online,37,Male,Tier 3
+202505-19,2025-05-19,Yes Bank,88945,Loan,Mumbai,Credit,27185,138232,No,Low,Online,23,Male,Tier 3
+202505-20,2025-05-20,BOB,92050,Savings,Delhi,Debit,47819,438048,No,Medium,Online,36,Female,Tier 1
+202505-21,2025-05-21,PNB,12983,Current,Mumbai,Debit,25078,173038,No,High,UPI,22,Female,Tier 2
+202505-22,2025-05-22,SBI,30662,Savings,Chennai,Debit,29331,475761,No,High,Online,20,Male,Tier 1
+202505-23,2025-05-23,Yes Bank,33510,Loan,Mumbai,Debit,8406,416203,No,Medium,ATM,18,Female,Tier 1
+202505-24,2025-05-24,Axis,88187,Current,Pune,Credit,7787,178383,No,Medium,UPI,55,Male,Tier 3
+202505-25,2025-05-25,Kotak,50998,Loan,Delhi,Credit,34160,303719,Yes,Medium,UPI,32,Female,Tier 3
+202505-26,2025-05-26,HDFC,66846,Savings,Mumbai,Debit,10722,335996,Yes,High,ATM,51,Female,Tier 1
+202505-27,2025-05-27,ICICI,16640,Savings,Delhi,Debit,37943,268722,Yes,High,Online,52,Male,Tier 3
+202505-28,2025-05-28,ICICI,54547,Loan,Chennai,Debit,35201,142079,Yes,High,Branch,66,Female,Tier 3
+202505-29,2025-05-29,BOB,64620,Loan,Bangalore,Credit,18264,212053,Yes,Medium,ATM,42,Male,Tier 2
+202505-30,2025-05-30,Axis,25317,Loan,Pune,Credit,45141,86242,Yes,Low,Online,41,Female,Tier 3
+202505-31,2025-05-31,HDFC,17564,Loan,Delhi,Credit,18174,188589,Yes,High,Online,29,Female,Tier 2
+202505-32,2025-06-01,BOB,37345,Loan,Mumbai,Credit,18524,39257,No,Medium,Online,35,Male,Tier 2
+202505-33,2025-06-02,Yes Bank,89273,Current,Bangalore,Credit,46507,490488,No,Low,UPI,32,Female,Tier 2
+202505-34,2025-06-03,Yes Bank,84859,Loan,Delhi,Debit,24374,445423,Yes,Low,UPI,61,Male,Tier 3
+202505-35,2025-06-04,Axis,90765,Current,Delhi,Credit,44142,154353,Yes,Medium,UPI,33,Female,Tier 3
+202505-36,2025-06-05,Axis,84038,Current,Mumbai,Credit,32784,333390,Yes,High,UPI,44,Male,Tier 2
+202505-37,2025-06-06,Yes Bank,62393,Savings,Delhi,Debit,18102,273579,Yes,Medium,Branch,25,Male,Tier 1
+202505-38,2025-06-07,ICICI,76081,Savings,Mumbai,Debit,38284,239947,Yes,Low,Online,63,Male,Tier 1
+202505-39,2025-06-08,HDFC,39430,Loan,Bangalore,Debit,23765,241758,Yes,Medium,ATM,42,Female,Tier 2
+202505-40,2025-06-09,SBI,85532,Savings,Chennai,Debit,26431,101357,No,Medium,Branch,34,Female,Tier 2
+202505-41,2025-06-10,Yes Bank,37788,Savings,Mumbai,Credit,29341,167732,No,High,UPI,46,Male,Tier 1
+202505-42,2025-06-11,SBI,58543,Savings,Delhi,Debit,29692,408300,Yes,Medium,ATM,25,Male,Tier 3
+202505-43,2025-06-12,SBI,23919,Loan,Chennai,Debit,47042,485413,Yes,High,UPI,32,Female,Tier 2
+202505-44,2025-06-13,Kotak,79346,Current,Chennai,Debit,43020,416723,Yes,High,Branch,44,Female,Tier 1
+202505-45,2025-06-14,HDFC,49974,Loan,Chennai,Debit,16085,213667,No,Low,UPI,63,Male,Tier 1
+202505-46,2025-06-15,SBI,26371,Loan,Chennai,Credit,26059,93807,No,Low,ATM,67,Female,Tier 1
+202505-47,2025-06-16,SBI,55084,Current,Bangalore,Credit,40559,448755,No,Medium,ATM,69,Female,Tier 3
+202505-48,2025-06-17,Axis,39629,Savings,Bangalore,Credit,34242,388097,Yes,Low,ATM,24,Male,Tier 3
+202505-49,2025-06-18,Kotak,61184,Savings,Bangalore,Debit,4633,148563,Yes,Medium,ATM,20,Male,Tier 1
+202505-50,2025-06-19,Yes Bank,71916,Loan,Delhi,Debit,15163,268778,Yes,Low,Branch,46,Male,Tier 3
+202505-51,2025-06-20,PNB,83972,Loan,Delhi,Credit,22254,191264,No,Medium,Online,61,Male,Tier 2
+202505-52,2025-06-21,BOB,72187,Current,Mumbai,Debit,4472,483611,No,High,Online,41,Male,Tier 1
+202505-53,2025-06-22,BOB,22984,Loan,Bangalore,Credit,5795,395941,Yes,Low,UPI,20,Female,Tier 3
+202505-54,2025-06-23,SBI,43039,Loan,Chennai,Credit,47181,336032,Yes,Low,UPI,37,Female,Tier 1
+202505-55,2025-06-24,Yes Bank,95431,Loan,Mumbai,Credit,42373,83609,No,Medium,ATM,63,Female,Tier 1
+202505-56,2025-06-25,PNB,93691,Savings,Bangalore,Debit,29625,281221,No,Low,ATM,32,Female,Tier 2
+202505-57,2025-06-26,ICICI,68606,Savings,Delhi,Credit,41496,258512,Yes,Low,Online,42,Male,Tier 1
+202505-58,2025-06-27,ICICI,20616,Savings,Mumbai,Debit,10403,263973,Yes,Medium,Branch,47,Female,Tier 1
+202505-59,2025-06-28,Kotak,60072,Current,Bangalore,Debit,3520,293097,Yes,High,Branch,31,Male,Tier 2
+202505-60,2025-06-29,ICICI,34574,Savings,Bangalore,Credit,42255,480135,Yes,Low,Online,24,Male,Tier 1
+202505-61,2025-06-30,SBI,13430,Savings,Mumbai,Debit,20920,386826,Yes,High,UPI,34,Female,Tier 3
+202505-62,2025-07-01,HDFC,22676,Loan,Pune,Credit,21952,340033,Yes,Medium,Online,61,Female,Tier 3
+202505-63,2025-07-02,Yes Bank,20816,Loan,Mumbai,Credit,46148,164893,No,Low,UPI,37,Female,Tier 2
+202505-64,2025-07-03,Yes Bank,42733,Loan,Delhi,Debit,38501,440783,Yes,Medium,ATM,53,Male,Tier 3
+202505-65,2025-07-04,ICICI,95680,Loan,Pune,Debit,10016,125374,Yes,Low,ATM,26,Male,Tier 2
+202505-66,2025-07-05,ICICI,12050,Current,Delhi,Credit,47827,34860,Yes,Medium,Branch,55,Female,Tier 1
+202505-67,2025-07-06,SBI,43933,Savings,Chennai,Credit,49969,162267,No,Medium,Online,65,Male,Tier 3
+202505-68,2025-07-07,Axis,34951,Loan,Chennai,Debit,2896,87475,Yes,Low,Branch,39,Female,Tier 1
+202505-69,2025-07-08,HDFC,42413,Savings,Delhi,Credit,19046,494090,Yes,Medium,UPI,19,Female,Tier 1
+202505-70,2025-07-09,SBI,44801,Loan,Bangalore,Debit,19629,359410,No,Medium,Branch,41,Male,Tier 1
+202505-71,2025-07-10,Axis,65619,Current,Bangalore,Debit,2091,162499,Yes,High,Online,25,Female,Tier 3
+202505-72,2025-07-11,Axis,42913,Savings,Chennai,Credit,11803,372876,No,Medium,ATM,28,Female,Tier 3
+202505-73,2025-07-12,BOB,50600,Savings,Mumbai,Credit,31061,299227,Yes,Medium,ATM,30,Female,Tier 1
+202505-74,2025-07-13,Axis,67775,Savings,Bangalore,Debit,6683,228118,Yes,Medium,Online,34,Female,Tier 2
+202505-75,2025-07-14,BOB,45400,Loan,Delhi,Debit,27072,329516,No,Medium,Online,25,Male,Tier 3
+202505-76,2025-07-15,HDFC,14494,Current,Mumbai,Credit,34580,133786,No,Medium,Branch,38,Female,Tier 3
+202505-77,2025-07-16,SBI,90688,Loan,Bangalore,Debit,21195,447280,Yes,High,UPI,35,Male,Tier 3
+202505-78,2025-07-17,Yes Bank,99431,Current,Chennai,Debit,7814,17813,No,Low,ATM,47,Female,Tier 1
+202505-79,2025-07-18,ICICI,84691,Loan,Mumbai,Debit,20123,41598,No,Low,Online,35,Male,Tier 1
+202505-80,2025-07-19,ICICI,53001,Savings,Bangalore,Credit,2639,267951,Yes,Low,Branch,63,Female,Tier 1
+202505-81,2025-07-20,HDFC,77364,Current,Mumbai,Credit,47956,103106,Yes,High,UPI,64,Male,Tier 2
+202505-82,2025-07-21,HDFC,55028,Loan,Mumbai,Credit,31790,299226,No,High,UPI,48,Male,Tier 2
+202505-83,2025-07-22,BOB,47573,Loan,Pune,Debit,18588,301385,Yes,Low,UPI,55,Female,Tier 3
+202505-84,2025-07-23,Yes Bank,10806,Current,Mumbai,Debit,40192,237286,Yes,Medium,UPI,49,Female,Tier 1
+202505-85,2025-07-24,SBI,66638,Savings,Delhi,Debit,33630,447785,No,Low,UPI,28,Female,Tier 3
+202505-86,2025-07-25,HDFC,39757,Current,Pune,Debit,32588,21745,Yes,Medium,ATM,62,Female,Tier 1
+202505-87,2025-07-26,BOB,44636,Savings,Delhi,Debit,26792,298173,Yes,High,ATM,42,Female,Tier 3
+202505-88,2025-07-27,Kotak,90097,Savings,Mumbai,Credit,46749,154097,No,Low,UPI,50,Male,Tier 1
+202505-89,2025-07-28,HDFC,58280,Savings,Chennai,Credit,21170,242732,Yes,Medium,Online,55,Female,Tier 1
+202505-90,2025-07-29,Yes Bank,34262,Savings,Chennai,Credit,4238,395539,Yes,Medium,ATM,58,Female,Tier 2
+202505-91,2025-07-30,SBI,90435,Savings,Delhi,Debit,2969,155360,No,High,UPI,25,Male,Tier 2
+202505-92,2025-07-31,SBI,72211,Savings,Chennai,Credit,23034,99186,Yes,High,Branch,28,Male,Tier 1
+202505-93,2025-08-01,Axis,64842,Savings,Chennai,Debit,49374,409756,Yes,Low,Online,39,Male,Tier 3
+202505-94,2025-08-02,ICICI,66979,Current,Pune,Credit,9517,369912,No,Low,Online,68,Female,Tier 2
+202505-95,2025-08-03,BOB,91470,Current,Mumbai,Credit,3308,223030,Yes,Low,UPI,41,Male,Tier 1
+202505-96,2025-08-04,PNB,48197,Loan,Pune,Credit,49638,209950,Yes,Low,Online,58,Female,Tier 2
+202505-97,2025-08-05,Axis,51844,Loan,Mumbai,Credit,48138,51846,Yes,Medium,Branch,34,Female,Tier 3
+202505-98,2025-08-06,PNB,74754,Current,Delhi,Debit,13213,348076,Yes,High,ATM,29,Male,Tier 2
+202505-99,2025-08-07,SBI,44157,Loan,Delhi,Debit,40829,158554,Yes,Low,UPI,63,Male,Tier 3
+202505-100,2025-08-08,Kotak,87129,Savings,Delhi,Credit,3219,295555,Yes,Low,ATM,49,Female,Tier 1
